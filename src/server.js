@@ -16,7 +16,9 @@ app.use(express.json());
 app.use(clothesRouter);
 app.use(foodRouter);
 
-
+app.get("/", (req, res) => {
+    res.status(200).send('welcome to my world');
+});
 app.use("*", notFoundHandler);
 
 app.use(errorHandler);

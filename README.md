@@ -1,9 +1,9 @@
 # api-server
 
-[Heroku](https://basic-api-server-sara.herokuapp.com/)
+[Heroku](https://api-server-saraaltayeh.herokuapp.com/)
 
-[github](https://github.com/saraaltayeh/basic-api-server)
+[github](https://github.com/saraaltayeh/api-server)
 
-[Actions](https://github.com/saraaltayeh/basic-api-server/actions)
+[Actions](https://github.com/saraaltayeh/api-server/actions)
 
-[pull request](https://github.com/saraaltayeh/basic-api-server/pull/2)
+[pull request](https://github.com/saraaltayeh/api-server/pull/4)

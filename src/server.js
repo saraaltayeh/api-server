@@ -17,7 +17,7 @@ app.use(clothesRouter);
 app.use(foodRouter);
 
 app.get("/", (req, res) => {
-    res.status(200).send('welcome to my world');
+    res.status(200).send('welcome to my market');
 });
 app.use("*", notFoundHandler);
 

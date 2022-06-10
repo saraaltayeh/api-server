@@ -4,7 +4,7 @@
 
 ![UML img](./assets/uml1.png)
 
-## links
+## links:
 
 [Heroku](https://api-server-saraaltayeh.herokuapp.com/)
 

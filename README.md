@@ -1,5 +1,9 @@
 # api-server
 
+## UML diagram
+
+![UML img](./assets/uml1.png)
+
 [Heroku](https://api-server-saraaltayeh.herokuapp.com/)
 
 [github](https://github.com/saraaltayeh/api-server)
